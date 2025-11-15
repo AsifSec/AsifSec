@@ -45,22 +45,25 @@ Explore my write-ups and deep dives into Zero Trust implementation, enterprise s
 - 🏅 Microsoft Certified: Cybersecurity Architect (SC-100)
 - 🏅 Certified Information Systems Security Professional (CISSP)
 - 🏅 Azure Security Engineer Associate (AZ-500)
+- 🏅 Microsoft Identity and Access Administrator (SC-300
+- 🏅 CCNA CyberOps Associate
 - 🏅 CompTIA Security+
+- 🏅 CCNA Routing and Switching
 - 🧪 Active participant in Hack The Box, TryHackMe, and OWASP workshops
 
 ---
 
 ## 🌐 Let's Connect
 
-- 🔗 https://www.linkedin.com/in/your-profile
-- 📝 https://your-github-pages-site
-- 📫 Reach me at: your.email@example.com
+- 🔗 https://www.linkedin.com/in/thezerotrustguy/
+- 📝 https://www.mdasif.com
+- 📫 Reach me at: Asif[@]mdasif.com
 
 ---
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api?username=AsifSec&show_icons=true&theme=radical
 
 ---
 
